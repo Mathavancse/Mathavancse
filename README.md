@@ -14,6 +14,11 @@ Python Developer
 
 - 😄 Pronouns: Techie
 
+- 🔭 I’m currently working on ...
+- [Building a Django-based inventory and customer management system](https://github.com/yourusername/inventory-management)
+- [Developing a full-stack application for order and customer data management](https://github.com/yourusername/fullstack-order-management)
+
+
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/><img height="50" width="50" src=https://img.icons8.com/color/48/django.png >
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/fluency/48/mysql-logo.png"/>
