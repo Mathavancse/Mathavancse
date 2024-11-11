@@ -11,5 +11,5 @@ Python Developer
 - 💬 Ask me about ...
 "Python programming and Django web development."
 "Database management and optimization in full-stack projects."
-- 📫 How to reach me: ...
+- 📫 How to reach me: Contact: 9360442488
 - 😄 Pronouns: Techie
