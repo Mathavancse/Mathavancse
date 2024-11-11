@@ -2,9 +2,8 @@
 
 Python Developer
 
-- 🔭 I’m currently working on ...
-"Building a Django-based inventory and customer management system."
-"Developing a full-stack application for order and customer data management."
+- 👀 I’m actively looking for ...
+"Opportunities in Python development, where I can contribute to web application projects and further develop my full-stack skills."
 - 🌱 I’m currently learning ...
 "Deepening my skills in Django and Python for web development."
 "Exploring advanced Python techniques, including bitwise operations and backend data handling."
