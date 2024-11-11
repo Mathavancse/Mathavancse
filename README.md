@@ -13,8 +13,7 @@ Python Developer
 
 - 😄 Pronouns: Techie
   
-- <span>&#9993;</span>
-<a href="mailto:kmathavancsegmail.com">
+- <span>&#9993;</span><a href="mailto:kmathavancsegmail.com">
     <img src="https://img.shields.io/badge/Gmail-kmathavancsegmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
