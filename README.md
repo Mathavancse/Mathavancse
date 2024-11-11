@@ -1,4 +1,4 @@
-## Hi there 👋 It's me K.Mathavan
+## It's Me K.Mathavan👋
 
 Python Developer
 
