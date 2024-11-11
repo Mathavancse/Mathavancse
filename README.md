@@ -22,4 +22,4 @@ Python Developer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/glyph-neue/64/github.png"/> 
 
-[![Mathavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mathavancse&bg_color=000000&color=15d57c&line=0ae65e&point=1a4d39&area=true&hide_border=true)]
+![Mathavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mathavancse&bg_color=000000&color=15d57c&line=0ae65e&point=1a4d39&area=true&hide_border=true)
