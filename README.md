@@ -2,12 +2,12 @@
 
 Python Developer
 
-<!--
+
 **Mathavancse/Mathavancse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 Share a brief description of a project you're actively involved in. Since you're working on a Django project with inventory and customer management, you could say:
 
 "Building a Django-based inventory and customer management system."
@@ -19,4 +19,3 @@ Share a brief description of a project you're actively involved in. Since you're
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
