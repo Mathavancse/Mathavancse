@@ -14,9 +14,10 @@ Python Developer
 
 - 😄 Pronouns: Techie
 
--  <a href="https://libraryproject.pythonanywhere.com/">
-    <img src="https://img.icons8.com/deco-color/48/project.png" />
+- <a href="https://libraryproject.pythonanywhere.com/">
+    <img src="https://img.shields.io/badge/Project-Library%20Management%20System-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+
 
 
 
