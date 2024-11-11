@@ -10,9 +10,11 @@ Python Developer
 - 💬 Ask me about ...
 "Python programming and Django web development."
 "Database management and optimization in full-stack projects."
+<span>&#9993;</span>
 <a href="mailto:kmathavancsegmail.com">
-    <img src="https://img.icons8.com/ios/50/000000/email.png" />
+    <img src="https://img.shields.io/badge/Gmail-kmathavancsegmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 
 - 😄 Pronouns: Techie
 
