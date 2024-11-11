@@ -6,7 +6,7 @@ Python Developer
 "Opportunities in Python development, where I can contribute to web application projects and further develop my full-stack skills."
 - 🌱 I’m currently learning ...
 "Deepening my skills in Django and Python for web development."
-"Exploring advanced Python techniques, including bitwise operations and backend data handling."
+"Exploring advanced Python techniques, including bitwise operations and backend data handling." 
 - 💬 Ask me about ...
 "Python programming and Django web development."
 "Database management and optimization in full-stack projects."
