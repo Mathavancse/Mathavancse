@@ -15,7 +15,10 @@ Python Developer
 - 😄 Pronouns: Techie
 
 - 🔭 I’m currently working on ...
--  <a href="https://libraryproject.pythonanywhere.com/"><img src=https://img.icons8.com/deco-color/48/project.png" /></a>
+-  <a href="https://libraryproject.pythonanywhere.com/">
+    <img src="https://img.icons8.com/deco-color/48/project.png" />
+</a>
+
 
 
 
