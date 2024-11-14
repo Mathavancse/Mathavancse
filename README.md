@@ -17,9 +17,10 @@ Python Developer
     <img src="https://img.shields.io/badge/Gmail-kmathavancsegmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-- <a href="https://libraryproject.pythonanywhere.com/">
-    <img src="https://img.shields.io/badge/Project-Library%20Management%20System-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
+- <a href="https://yourprojectlink.pythonanywhere.com/">
+    <img src="https://img.shields.io/badge/Project-Supply%20Chain%20Management-4CAF50?style=for-the-badge&logo=python&logoColor=white" />
 </a>
+
 
 
 
